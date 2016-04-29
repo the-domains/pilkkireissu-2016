@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.3502506
 color:
   saturation: 0.6478696
   brandStrength: 1
@@ -22,5 +21,6 @@ color:
     - '#C44E04'
     - '#743E29'
   rhythmicContrast: 0.5679106
-layout_spectrum: 1
+typography_spectrum: 0.3502506
+layout_spectrum: 0.6697995
 name: Pilkkireissu 2016
