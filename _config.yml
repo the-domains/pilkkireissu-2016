@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5454174
+  brandStrength: 0.5012531
+  lightness: 0.1511298
+  rhythmicContrast: 0.5679106
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.3502506
+name: Pilkkireissu 2016
