@@ -1,8 +1,20 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3502506
 color:
-  saturation: 0.5454174
+  saturation: 0.6478696
   brandStrength: 1
-  lightness: 0.1511298
+  lightness: 0.5307018
   brandColors:
     - '#8090AA'
     - '#BFCCDC'
@@ -10,5 +22,5 @@ color:
     - '#C44E04'
     - '#743E29'
   rhythmicContrast: 0.5679106
-typography_spectrum: 0.3502506
+layout_spectrum: 1
 name: Pilkkireissu 2016
